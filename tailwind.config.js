@@ -7,6 +7,7 @@ module.exports = withTheme({
   content: [
     "./pages/**/*.{js,ts,jsx,tsx}",
     "./components/**/*.{js,ts,jsx,tsx}",
+    "./node_modules/@op-ent/unstyled-ui/dist/index.js",
   ],
   theme: {
     extend: {},

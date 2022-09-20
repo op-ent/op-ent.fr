@@ -13,3 +13,7 @@
 .dark {
   color-scheme: dark;
 }
+
+* {
+  @apply transition-colors;
+}

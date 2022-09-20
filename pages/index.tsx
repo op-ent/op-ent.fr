@@ -12,8 +12,8 @@ const Home: NextPage = () => {
       </Head>
       <div className="custom-container px-4 my-10">
         <img src="/img/logo.svg" className="w-24" alt="Logo d'op-ent" />
-        <h1 className="text-xl text-neutral-12 font-bold">op-ent</h1>
-        <h1 className="text-lg text-neutral-11">L{"'"}ENT open-source.</h1>
+        <h1 className="text-5xl text-neutral-12 font-bold">op-ent</h1>
+        <h2 className="text-lg text-neutral-11">L{"'"}ENT open-source.</h2>
         <Button
           as={Link}
           href="https://github.com/op-ent"
@@ -21,7 +21,7 @@ const Home: NextPage = () => {
           size="lg"
           color="neutral"
           className="mt-10"
-          leftIcon={<Github className="w-4 h-4 text-current mr-2" />}
+          leftIcon={<Github className="w-4 h-4 mr-2" />}
         >
           GitHub
         </Button>
