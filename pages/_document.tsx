@@ -4,7 +4,6 @@ export default function Document() {
   return (
     <Html className="" lang="fr">
       <Head>
-        <title>op-ent. L{"'"}ENT open-source.</title>
         <link rel="icon" type="image/svg+xml" href="/img/logo.svg" />
         <link
           href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap"

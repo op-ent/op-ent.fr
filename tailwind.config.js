@@ -1,6 +1,6 @@
 const { withTheme } = require("@op-ent/unstyled-ui-theme");
 
-// TODO: investigate hot reload issues
+// TODO: investigate hot reloading issue with components
 
 /** @type {import('tailwindcss').Config} */
 module.exports = withTheme({

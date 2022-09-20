@@ -5,3 +5,11 @@
 #__next {
   display: contents;
 }
+
+.custom-container {
+  @apply max-w-7xl mx-auto;
+}
+
+.dark {
+  color-scheme: dark;
+}

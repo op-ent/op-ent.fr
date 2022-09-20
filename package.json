@@ -9,11 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@heroicons/react": "^2.0.11",
+    "@icons-pack/react-simple-icons": "^5.6.0",
+    "@op-ent/unstyled-ui": "0.1.1-6",
+    "@op-ent/unstyled-ui-theme": "0.0.2-1",
     "next": "12.3.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "@op-ent/unstyled-ui": "0.1.1-6",
-    "@op-ent/unstyled-ui-theme": "0.0.2-1"
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
     "@types/node": "18.7.18",
