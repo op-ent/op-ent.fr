@@ -164,10 +164,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@op-ent/unstyled-ui-theme@0.0.2-1":
-  version "0.0.2-1"
-  resolved "https://registry.npmjs.org/@op-ent/unstyled-ui-theme/-/unstyled-ui-theme-0.0.2-1.tgz#2bf23ecad4df80ec770328cfd25f6afadccb1431"
-  integrity sha512-bxGrwNB+ty3jM4z8rf1lnkp7KbUFSBwNKYtU8Qr4rXwCb+FD1N9VPyG5QFEq/9ve9qyXFmPtnIcc/wSbGO1U3Q==
+"@op-ent/unstyled-ui-theme@0.0.2-2":
+  version "0.0.2-2"
+  resolved "https://registry.npmjs.org/@op-ent/unstyled-ui-theme/-/unstyled-ui-theme-0.0.2-2.tgz#b25a4dd90bd181fd2f2fc99a6a6fc7f1bac8bec4"
+  integrity sha512-YK0TtrtyBLJm11rwt5Zo5tnqF1LMWKFlx8uzYFpBmFY5csn78UHuhlcxB7Y5rhKwXwehY9a1fsvDPlH1JfMv1g==
   dependencies:
     "@op-ent/unstyled-ui" "0.1.1-6"
     defu "^6.0.0"
